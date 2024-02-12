@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">I'm Andres Jimenez, a passionate backend developer specialized in Python and Blockchain. 🚀</h2>
+<h2 align="left">I'm Andres Jimenez, a passionate backend developer specialized in Python and Django. 🚀</h2>
 
 ###
 
