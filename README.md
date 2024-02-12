@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">- 🐍 I love programming in Python and exploring new technologies.<br><br>- ⛓ I'm fascinated by blockchain technology and its potential to revolutionize the world.<br><br>- 🎮 In my free time, you can find me playing Warzone or reading about the latest blockchain technology.<br><br>- 🌱 I'm currently learning everything I can about smart contracts.</h4>
+<h4 align="left">- 🐍 I love programming in Python and exploring new technologies.<br><br>- ⛓ I'm fascinated by blockchain technology and its potential to revolutionize the world.<br><br>- 🎮 In my free time, You can find me at the gym in the mornings, doing trading, or taking my daughter to her activities.<br><br>- 🌱 Currently, I am studying team project management and the handling of massive data and resources with the aim of implementing it in a project for importing and distributing products . .</h4>
 
 ###
 
