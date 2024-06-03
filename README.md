@@ -14,7 +14,7 @@
 
 <h2 align="left">Hi, I'm Andres Jimenez, a passionate backend developer specialized in Python and Django. 🚀</h2>
 
-<h2 align="left">🧐 About me</h2>
+<h2 align="left">🧐 Does Anyone Even Read This?</h2>
 
 <h4 align="left">- 🐍 I love programming in Python and exploring new technologies.<br><br>- ⛓ I'm fascinated by blockchain technology and its potential to revolutionize the world.<br><br>- 🎮 In my free time, you can find me at the gym in the mornings, trading, or taking my daughter to her activities.<br><br>- 🌱 Currently, I am studying team project management and the handling of massive data and resources with the aim of implementing it in a project for importing and distributing products.</h4>
 
