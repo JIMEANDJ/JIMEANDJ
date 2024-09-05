@@ -10,17 +10,23 @@
 </div>
 
 ###
-<h1 align="center">print("Welcome to my Python World!")</h1>
+<h1 align="center">print("www.pybackendsolutions.com")</h1>
 
 <h2 align="left">Hi, I'm Andres Jimenez, a passionate backend developer specialized in Python and Django. 🚀</h2>
 
 <h2 align="left">🧐 Does Anyone Even Read This?</h2>
 
-<h4 align="left">- 🐍 I love programming in Python and exploring new technologies.<br><br>- ⛓ I'm fascinated by blockchain technology and its potential to revolutionize the world.<br><br>- 🎮 In my free time, you can find me at the gym in the mornings, trading, or taking my daughter to her activities.<br><br>- 🌱 Currently, I am studying team project management and the handling of massive data and resources with the aim of implementing it in a project for importing and distributing products.</h4>
+<h4 align="left">
+  - 🐍 I love programming in Python and exploring new technologies.<br><br>
+  - ⛓ I am fascinated in how technology revolutionizes the world. I enjoy creating trading bots using numpy, pandas, and backtesting. I also love working on projects with Django and much more.<br><br>
+  - 🎮 In my free time, you can find me at the gym in the mornings, trading, taking my daughter to her activities, or developing any app to make me a millionaire.<br><br>
+  - 🌱 Currently, I work at Halliburton Latam, and I am developing my own projects.
+</h4>
+
 
 <h2 align="left">🛠 Technical skills</h2>
 
-<h4 align="left">- Programming languages: Python, JavaScript<br><br>- Frameworks: Django, React<br><br>- Blockchain: Ethereum, Solidity, Smart Contracts<br><br>- Databases: PostgreSQL, SQLite3<br><br>- Tools: Git, AWS</h4>
+<h4 align="left">- Programming languages: Python, JavaScript<br><br>- Frameworks: Django, Flask<br><br>- Databases: PostgreSQL, SQLite3<br><br>- Tools: Git, AWS</h4>
 
 <h2 align="left">📫 Contact me</h2>
 
