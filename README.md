@@ -16,10 +16,10 @@
 
 <h2 align="left">🧐 Does Anyone Even Read This?</h2>
 
-<h4 align="left">
-  - 🐍 I love programming in Python and exploring new technologies.<br><br>
-  - ⛓ I am fascinated in how technology revolutionizes the world. I enjoy creating trading bots using numpy, pandas, and backtesting. I also love working on projects with Django and much more.<br><br>
-  - 🎮 In my free time, you can find me at the gym in the mornings, trading, taking my daughter to her activities, or developing any app to make me a millionaire.<br><br>
+<h4 align=“left”>
+
+🐍 I love programming in Python and exploring new technologies.<br><br>
+⛓ I am fascinated by how technology revolutionizes the world. I enjoy working on projects with Django and creating trading bots using numpy, pandas, and backtesting. I also excel at database management with PostgreSQL and aim to leverage the massive amount of data from my businesses to enhance my projects and ventures.<br><br>
   - 🌱 Currently, I work at Halliburton Latam, and I am developing my own projects.
 </h4>
 
