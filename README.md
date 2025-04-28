@@ -20,7 +20,7 @@
 
 🐍 I love programming in Python and exploring new technologies.<br><br>
 ⛓ I am fascinated by how technology revolutionizes the world. I enjoy working on projects with Django and creating trading bots using numpy, pandas, and backtesting. I also excel at database management with PostgreSQL and aim to leverage the massive amount of data from my businesses to enhance my projects and ventures.<br><br>
-  - 🌱 Currently, I work at Halliburton Latam, and I am developing my own projects.
+  - 🌱 Currently, I work at nominasccrypto.io.
 </h4>
 
 
