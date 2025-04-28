@@ -30,7 +30,7 @@
 
 <h2 align="left">📫 Contact me</h2>
 
-<h4 align="left">- Email - Andrezjj6@gmail.com</h4>
+<h4 align="left">- Email - pybackendsolutions@gmail.com</h4>
 
 <!-- You can continue with the rest of your profile here -->
 ###
