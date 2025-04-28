@@ -26,7 +26,7 @@
 
 <h2 align="left">🛠 Technical skills</h2>
 
-<h4 align="left">- Programming languages: Python, JavaScript<br><br>- Frameworks: Django, Flask<br><br>- Databases: PostgreSQL, SQLite3<br><br>- Tools: Git, AWS</h4>
+<h4 align="left">- Programming languages: Python<br><br>- Frameworks: Django, Flask, FastAPI<br><br>- Databases: PostgreSQL, SQLite3<br><br>- Tools: Git, AWS</h4>
 
 <h2 align="left">📫 Contact me</h2>
 
